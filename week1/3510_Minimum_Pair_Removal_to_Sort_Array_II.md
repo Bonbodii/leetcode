@@ -120,4 +120,4 @@ public:
 };
 ```
 ## Acceptance Screen Shot
-![alt text](image.png)
+![alt text](3510_Minimum_Pair_Removal_to_Sort_Array_II.png)

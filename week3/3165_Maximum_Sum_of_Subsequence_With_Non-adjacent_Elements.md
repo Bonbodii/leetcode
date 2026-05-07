@@ -52,4 +52,4 @@ public:
 };
 ```
 ## Acceptance Screen Shot
-![alt text](image.png)
+![alt text](3165_Maximum_Sum_of_Subsequence_With_Non-adjacent_Elements.png)

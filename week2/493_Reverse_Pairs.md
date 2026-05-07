@@ -23,4 +23,4 @@ public:
 };
 ```
 ## Acceptance Screen Shot
-![alt text](image.png)
+![alt text](493_Reverse_Pairs.png)

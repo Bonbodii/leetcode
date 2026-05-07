@@ -27,4 +27,4 @@ public:
 };
 ```
 ## Acceptance Screen Shot
-![alt text](image.png)
+![alt text](3537_Fill_a_Special_Grid.png)

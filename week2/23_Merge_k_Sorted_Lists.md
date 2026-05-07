@@ -22,4 +22,4 @@ public:
 };
 ```
 ## Acceptance Screen Shot
-![alt text](image.png)
+![alt text](23_Merge_k_Sorted_Lists.png)

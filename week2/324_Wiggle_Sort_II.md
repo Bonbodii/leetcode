@@ -22,4 +22,4 @@ public:
 };
 ```
 ## Acceptance Screen Shot
-![alt text](image.png)
+![alt text](324_Wiggle_Sort_II.png)

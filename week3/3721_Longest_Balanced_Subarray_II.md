@@ -86,4 +86,4 @@ public:
 };
 ```
 ## Acceptance Screen Shot
-![alt text](image.png)
+![alt text](3721_Longest_Balanced_Subarray_II.png)

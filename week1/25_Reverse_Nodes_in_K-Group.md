@@ -36,4 +36,4 @@ public:
 };
 ```
 ## Acceptance Screen Shot
-![alt text](image.png)
+![alt text](25_Reverse_Nodes_in_K-Group.png)
