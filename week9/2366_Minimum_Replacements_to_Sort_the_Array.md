@@ -22,4 +22,4 @@ public:
 };
 ```
 ## Acceptance Screen Shot
-![alt text](2366. Minimum Replacements to Sort the Array.png)
+![alt text](2366_Minimum_Replacements_to_Sort_the_Array.png)
